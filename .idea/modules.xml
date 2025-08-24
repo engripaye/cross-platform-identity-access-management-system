@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cross-platform-identity-access-management-system.iml" filepath="$PROJECT_DIR$/cross-platform-identity-access-management-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iam-springboot-backend/iam-springboot-backend.iml" filepath="$PROJECT_DIR$/iam-springboot-backend/iam-springboot-backend.iml" />
     </modules>
   </component>
 </project>
