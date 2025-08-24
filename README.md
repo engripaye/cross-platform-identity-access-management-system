@@ -38,7 +38,7 @@ It enables:
 
 ## 🏗️ Architecture
 
-```mermaid
+```
 flowchart TD
     A[User / Client App] -->|OAuth2 Login| B[IAM Engine (Spring Boot)]
     B -->|JWT Tokens| A
