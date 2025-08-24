@@ -2,6 +2,9 @@
 
 # 🔐 Cross-Platform Identity & Access Management (IAM) System
 
+<img width="1536" height="1024" alt="Cross-Platform IAM System Overview" src="https://github.com/user-attachments/assets/8a5b2b5e-6e73-427a-a502-50e792f8e2c5" />
+
+
 ## 📌 Overview
 
 This project is a **Cross-Platform Identity & Access Management (IAM) System** that combines the power of **Java 21 (Spring Boot)** and **PHP (Laravel/Symfony)** to deliver a **secure, scalable, and SaaS-ready authentication & authorization platform**.
