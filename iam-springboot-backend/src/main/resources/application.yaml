@@ -39,9 +39,9 @@ spring:
             issuer-uri:
 security:
   jwt:
-    issuer:
-    secret:
-    expires-min:
+    issuer: ${JWT_SECRET}
+    secret: cross-platform-iam
+    expires-min: 60m
 
 tenant:
   header: "X-Tenant-ID"
