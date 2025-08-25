@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40b21af8-244f-4679-8bb0-aae2b63740ef" name="Changes" comment="backend code commit by ENGR. IPAYE">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iam-springboot-backend/src/main/java/org/engripaye/iamspringbootbackend/controller/AuthController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iam-springboot-backend/src/main/java/org/engripaye/iamspringbootbackend/repository/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iam-springboot-backend/src/main/java/org/engripaye/iamspringbootbackend/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/iam-springboot-backend/src/main/java/org/engripaye/iamspringbootbackend/config/SecurityConfig.java" afterDir="false" />
-    </list>
+    <list default="true" id="40b21af8-244f-4679-8bb0-aae2b63740ef" name="Changes" comment="backend code commit by ENGR. IPAYE" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +88,7 @@
       <workItem from="1756020479658" duration="835000" />
       <workItem from="1756033077979" duration="907000" />
       <workItem from="1756038671183" duration="1400000" />
-      <workItem from="1756040893951" duration="5478000" />
+      <workItem from="1756040893951" duration="6265000" />
     </task>
     <task id="LOCAL-00001" summary="init commit by ENGR. IPAYE">
       <option name="closed" value="true" />
@@ -144,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756114042960</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="backend code commit by ENGR. IPAYE">
+      <option name="closed" value="true" />
+      <created>1756115793974</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1756115793974</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
