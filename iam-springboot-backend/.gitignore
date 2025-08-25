@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Ignore secrets
+iam-springboot-backend/src/main/resources/application.yaml
+
+

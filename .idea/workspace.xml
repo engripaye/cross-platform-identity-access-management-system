@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40b21af8-244f-4679-8bb0-aae2b63740ef" name="Changes" comment="init commit by ENGR. IPAYE" />
+    <list default="true" id="40b21af8-244f-4679-8bb0-aae2b63740ef" name="Changes" comment="init commit by ENGR. IPAYE">
+      <change afterPath="$PROJECT_DIR$/iam-springboot-backend/src/main/java/org/engripaye/iamspringbootbackend/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iam-springboot-backend/src/main/java/org/engripaye/iamspringbootbackend/rbac/Permission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iam-springboot-backend/src/main/java/org/engripaye/iamspringbootbackend/rbac/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iam-springboot-backend/src/main/java/org/engripaye/iamspringbootbackend/rbac/RolePermission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iam-springboot-backend/src/main/java/org/engripaye/iamspringbootbackend/rbac/UserRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iam-springboot-backend/src/main/resources/application-expose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iam-springboot-backend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/iam-springboot-backend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iam-springboot-backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iam-springboot-backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iam-springboot-backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/iam-springboot-backend/src/main/resources/application.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,43 +26,54 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\php\php.exe" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="31ix0voXiBkepRshsi0XcH9Svdn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "git-widget-placeholder": "master",
-    "go.import.settings.migrated": "true",
-    "jdk.selected.JAVA_MODULE": "21",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/Downloads/cross-platform-identity-access-management-system&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="cross-platform-identity-access-management-system" />
       <working_directory value="$PROJECT_DIR$" />
       <go_parameters value="-i" />
-      <kind />
+      <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <method v="2" />
@@ -58,7 +82,7 @@
       <module name="cross-platform-identity-access-management-system" />
       <working_directory value="$PROJECT_DIR$" />
       <go_parameters value="-i" />
-      <kind />
+      <kind value="DIRECTORY" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
@@ -74,6 +98,9 @@
       <option name="presentableId" value="Default" />
       <updated>1756020478173</updated>
       <workItem from="1756020479658" duration="835000" />
+      <workItem from="1756033077979" duration="907000" />
+      <workItem from="1756038671183" duration="1400000" />
+      <workItem from="1756040893951" duration="1983000" />
     </task>
     <task id="LOCAL-00001" summary="init commit by ENGR. IPAYE">
       <option name="closed" value="true" />
